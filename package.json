@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Michael Greene",
+	"description": "Learning npm for node.js",
+	"keywords": ["npm", "descriptive", "relevant", "freecodecamp"],
+	"license": "MIT",
+	"version": "1.2.0ß",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
