@@ -4,7 +4,7 @@
 	"description": "Learning npm for node.js",
 	"keywords": ["npm", "descriptive", "relevant", "freecodecamp"],
 	"license": "MIT",
-	"version": "1.2.0ß",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
